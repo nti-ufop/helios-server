@@ -1,6 +1,5 @@
 # Para gerar o site estático: mkdocs build
-# Para rodar um servidor para testes: mkdocs serve
-
+# Para roda
 site_name: Helios - Sistema de votação eletrônica
 site_description: 'Ajuda do sistema de votação eletrônica'
 site_author: 'Instituto Federal de Santa Catarina'

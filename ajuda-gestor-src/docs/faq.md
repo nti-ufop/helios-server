@@ -1,6 +1,6 @@
 #### 1. Quem pode criar eleição?
 
-**Resposta:** Apenas usuários com a permissão de gestor de eleição. Se você se conectou no sistema, mas não visualiza o botão **Criar Eleição**, deve enviar e-mail com o assunto *Solicito ser gestor de eleição no Helios* para suporte.ti@ifsc.edu.br
+**Resposta:** Apenas usuários com a permissão de gestor de eleição. Se você se conectou no sistema, mas não visualiza o botão **Criar Eleição**, deve enviar e-mail com o assunto *Solicito ser gestor de eleição no Helios* para suporte.votacao@ufop.edu.br
 
 
 #### 2. Quando a Eleição é aberta?

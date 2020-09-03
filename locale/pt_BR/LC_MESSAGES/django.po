@@ -1967,7 +1967,7 @@ msgstr ""
 
 #: helios/templates/voters_list.html:41
 msgid "only voters from the same system"
-msgstr "Apenas eleitores com usuário nos sistemas do UFOP"
+msgstr "Somente eleitores que possam se conectar no sistema com a senha do Portal MinhaUfop e que estejam presentes na listagem de usuários carregados por meio de arquivos CSV"
 
 #: helios/templates/voters_list.html:47
 msgid "limitedreg"
@@ -2286,7 +2286,7 @@ msgid "Time to Vote"
 msgstr "Hora de Votar"
 
 msgid "Time to Vote 2"
-msgstr "Hora de Votar LDAP"
+msgstr "Hora de Votar MinhaUfop"
 
 #: helios/views.py:1411
 msgid "Simple"

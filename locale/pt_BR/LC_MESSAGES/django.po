@@ -5,7 +5,7 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: helios-ifsc\n"
+"Project-Id-Version: helios-ufop\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-04-04 13:50-0300\n"
 "PO-Revision-Date: 2015-10-14 16:16-0300\n"
@@ -1373,7 +1373,7 @@ msgstr ""
 "desencriptação automaticamente.<br />\n"
 "  Se você cadastrar apuradores adicionais, você pode remover o Helios como "
 "apurador, clicando no botão de excluir da opção \"Sistema de Votação Online "
-"do IFSC\" na listagem de apuradores abaixo.<br />\n"
+"do UFOP\" na listagem de apuradores abaixo.<br />\n"
 
 #: helios/templates/list_trustees.html:32
 msgid "add a trustee"
@@ -1967,7 +1967,7 @@ msgstr ""
 
 #: helios/templates/voters_list.html:41
 msgid "only voters from the same system"
-msgstr "Apenas eleitores com usuário nos sistemas do IFSC"
+msgstr "Apenas eleitores com usuário nos sistemas do UFOP"
 
 #: helios/templates/voters_list.html:47
 msgid "limitedreg"
@@ -3257,12 +3257,12 @@ msgid "Brazilian Portuguese"
 msgstr "Português Brasileiro"
 
 #: settings.py:234
-msgid "IFSC E-Voting System"
-msgstr "Sistema de Votação Online do IFSC"
+msgid "UFOP E-Voting System"
+msgstr "Sistema de Votação Online do UFOP"
 
 #: settings.py:242
-msgid "Welcome to IFSC E-Voting System"
-msgstr "Bem Vindo ao Sistema de Votação Online do IFSC"
+msgid "Welcome to UFOP E-Voting System"
+msgstr "Bem Vindo ao Sistema de Votação Online do UFOP"
 
 #: templates/403.html:3
 msgid "Could not complete your request"

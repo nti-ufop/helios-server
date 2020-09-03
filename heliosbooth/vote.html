@@ -4,10 +4,10 @@
   <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
   <title>Cabine de Votação</title>
-  <link rel="stylesheet" type="text/css" media="screen" href="/static/bootstrap/css/bootstrap.min.css" />
+  <link rel="stylesheet" type="text/css" media="screen" href="/media/bootstrap/css/bootstrap.min.css" />
   <link rel="stylesheet" type="text/css" href="css/booth.css" />
   <link rel="stylesheet" type="text/css" href="css/forms.css" />
-  <link rel="stylesheet" type="text/css" href="/static/css/custom.css" />
+  <link rel="stylesheet" type="text/css" href="/media/css/custom.css" />
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700|Roboto+Mono">
     <style>body,input{font-family:"Roboto","Helvetica Neue",Helvetica,Arial,sans-serif}code,kbd,pre{font-family:"Roboto Mono","Courier New",Courier,monospace}</style>
   <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
@@ -489,7 +489,7 @@ BOOTH.wait_for_ciphertexts = function() {
 
     if (BOOTH.total_cycles_waited > 250) {
       //alert('there appears to be a problem with the encryption process.\nPlease email help@heliosvoting.org and indicate that your encryption process froze at ' + percentage_done + '%');
-      alert('parece que houve um problema com o processo de cifragem.\nPor favor, envie um email para suporte.reitoria@ifsc.edu.br e informe que seu processo de cifragem travou em ' + percentage_done + '%');
+      alert('parece que houve um problema com o processo de cifragem.\nPor favor, envie um email para suporte.votacao@ufop.edu.br e informe que seu processo de cifragem travou em ' + percentage_done + '%');
       return;
     }
 

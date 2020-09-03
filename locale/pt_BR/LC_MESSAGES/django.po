@@ -2310,7 +2310,7 @@ msgstr "Conecte-se com sua conta Google"
 
 #: helios_auth/auth_systems/ldapauth.py:42
 msgid "Log in with my LDAP Account"
-msgstr "Conecte-se com sua conta institucional"
+msgstr "Conecte-se com sua conta MinhaUfop"
 
 #: helios_auth/auth_systems/shibboleth.py:25
 msgid "Click here to login"

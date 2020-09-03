@@ -2285,6 +2285,9 @@ msgstr "nenhum arquivo carregado, tente novamente"
 msgid "Time to Vote"
 msgstr "Hora de Votar"
 
+msgid "Time to Vote 2"
+msgstr "Hora de Votar LDAP"
+
 #: helios/views.py:1411
 msgid "Simple"
 msgstr "Simples"

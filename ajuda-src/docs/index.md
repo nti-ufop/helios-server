@@ -21,7 +21,8 @@
 5. Clique no botão **Conecte-se com a sua conta MinhaUfop** para autenticar-se no sistema.
     ![Autenticação MinhaUfop](img/eleitor-09.png "Autenticação MinhaUfop")
 
-6. Para autenticar-se no sistema, utilize o seu CPF (sem pontos e hífen) e senha do Portal MinhaUfop.
+6. Para autenticar-se no sistema, utilize o seu CPF \(sem pontos e hífen\) e a senha do Portal MinhaUfop.
+
     ![Autenticação](img/eleitor-01.png "Autenticação")
 
 7. Clique no botão **Confirmar** para depositar sua cédula na urna. Se não deseja depositar a cédula, clique no botão cancelar.

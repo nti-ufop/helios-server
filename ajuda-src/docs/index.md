@@ -15,7 +15,8 @@
 
     ![Revisão das escolhas feitas](img/eleitor-05.png "Revisão das escolhas feitas")
 
-4. Ao depositar a cédula na urna eletrônica o voto será contabilizado para a referida eleição.
+4. Sua cédula foi criptografada, e se preferir, anote o código rastreador da sua cédula. Vale lembrar que o sistema de votação enviará esse código para o seu e-mail. Clique no botão **Depositar Cédula na Urna** para prosseguir.
+
     ![Cédula cifrada](img/eleitor-06.png "Cédula foi cifrada")
 
 5. Clique no botão **Conecte-se com a sua conta MinhaUfop** para autenticar-se no sistema.

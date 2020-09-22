@@ -1,0 +1,37 @@
+FROM debian:stretch
+
+RUN apt-get update
+
+RUN apt-get install -y apt-utils vim curl software-properties-common gettext
+
+RUN apt-get install -y python-virtualenv python-pip unzip libpq-dev python-dev rabbitmq-server libsasl2-dev python-dev libldap2-dev libssl-dev python-ldap
+
+ADD https://github.com/nti-ufop/helios-server/archive/master.zip /helios/
+
+WORKDIR /helios/
+
+RUN adduser --disabled-login --quiet --gecos Helios helios
+
+RUN chown -Rf helios:helios /helios/
+
+USER helios
+
+RUN unzip master.zip
+
+WORKDIR /helios/helios-server-master/
+
+RUN virtualenv venv
+
+RUN bash -c 'source venv/bin/activate; pip install -r requirements.txt'
+
+COPY ./settings.py .
+
+USER root
+
+ADD docker-entrypoint-dev.sh /docker-entrypoint.sh
+
+RUN chown -Rf helios:helios /helios/
+
+USER helios
+
+ENTRYPOINT /docker-entrypoint.sh

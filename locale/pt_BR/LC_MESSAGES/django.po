@@ -3299,8 +3299,11 @@ msgstr "Erro no servidor"
 msgid "There was an error while handling your request."
 msgstr "Houve um erro durante o processamento de sua requisição."
 
-#~ msgid "ok, I've saved the key, let's move on"
-#~ msgstr "ok, a chave foi salva, vamos prosseguir"
+msgid "download private key to a file"
+msgstr "Baixar a chave privada"
+
+msgid "ok, I've saved the key, let's move on"
+msgstr "ok, a chave foi salva, vamos prosseguir"
 
 #~ msgid ""
 #~ "\n"

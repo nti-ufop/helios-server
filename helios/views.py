@@ -1409,6 +1409,7 @@ def voters_email(request, election):
   TEMPLATES = [
     ('vote', _('Time to Vote')),
     ('vote2', _('Time to Vote 2')),
+    ('vote3', _('Time to Vote 3')),
     ('simple', _('Simple')),
     ('info', _('Additional Info')),
     ('result', _('Election Result'))

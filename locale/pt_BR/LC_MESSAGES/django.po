@@ -2287,6 +2287,9 @@ msgstr "Hora de Votar"
 msgid "Time to Vote 2"
 msgstr "Hora de Votar MinhaUfop"
 
+msgid "Time to Vote 3"
+msgstr "Hora de Votar Pesquisa Paritária para Reitoria UFOP/2020"
+
 #: helios/views.py:1411
 msgid "Simple"
 msgstr "Simples"

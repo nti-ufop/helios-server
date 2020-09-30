@@ -43,7 +43,6 @@ LOGIN_MESSAGE = _("Log in with my LDAP Account")
 
 class LoginForm(forms.Form):
     username = forms.CharField(max_length=250)
-    username = username.replace(".", "").replace("-", "")
     password = forms.CharField(widget=forms.PasswordInput(), max_length=100)
 
 
@@ -64,7 +63,7 @@ def ldap_login_view(request):
                 request.session['auth_return_url'] = request.POST.get('return_url')
 
             if form.is_valid():
-                username = form.cleaned_data['username'].strip()
+                username = form.cleaned_data['username'].strip().replace(".", "").replace("-", "")
                 password = form.cleaned_data['password'].strip()
 
                 auth = backend.CustomLDAPBackend()

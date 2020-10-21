@@ -5,45 +5,13 @@
     <meta charset="utf-8">
 </head>
 <body>
-<p>Caro (a) <strong>{{voter.name}}</strong>,
+<p>Caro(a) <strong>{{voter.name}}</strong>,
 <br>
 <p>{{custom_message|safe|linebreaksbr}}</p>
 <br>
-Para participar da Pesquisa Paritária para a Reitoria UFOP/2020, utilize as intruções a seguir:
-<ol>
-  <li>Acesse o site institucional da UFOP;</li>
-  <li>Após o carregamento da página inicial da UFOP, procure pela notícia em destaque sobre a Pesquisa Paritária para Reitoria e clique na notícia;</li>
-  <li>A seguir, serão exibidos três endereços para as urnas de votação distribuídos por segmento: discentes, docentes e técnicos administrativos. Clique no endereço correspondente ao seu segmento;</li>
-  <li>Uma vez carregada a cabine de votação do seu segmento, prossiga com a escolha do seu voto.</li>
-</ol>
+<p>Para participar do processo de votação, você deverá utilizar o CPF e senha do Portal MinhaUfop. Além disso, caso ainda tenha alguma dúvida, você pode encontrar no site institucional da UFOP alguns vídeos contendo instruções de ajuda para participar do processo.</p>
 <br>
-<p>Para depositar o voto, você deverá utilizar o CPF e senha do Portal MinhaUfop. Caso ainda tenha alguma dúvida, vale lembrar que serão disponibilizados alguns vídeos no site institucional com orientações para ajudá-lo a participar do processo de votação.</p>
-
-{% ifequal voter.voter_type "password" %}
-<p>Para confirmar o seu voto, utilize as seguintes informações:</p>
-<p>
-    <strong>Seu ID de eleitor</strong>: {{voter.voter_login_id}}<br>
-    <strong>Sua senha para essa eleição é a mesma do Portal MinhaUfop</strong><br>
-</p>
-{% else %}
-{% endifequal %}
-
-{% if voter.vote_hash %}
-<br>
-<p>
-   O seu voto foi registrado com o seguinte código de identificação: <strong> {{voter.vote_hash}}</strong>
-</p>
-{% endif %}
-
-{% if election.use_voter_aliases %}
-<br>
-<p>
-Para proteger a sua privacidade, essa eleição está configurada para utilizar um pseudônimo de eleitor, assim seu login, nome ou email não serão mostrados para o público em geral. Portanto, ao invés de seu nome, o centro de rastreamento de cédula vai listar apenas o seu pseudônimo.
-<br>
-Seu pseudônimo de eleitor: <strong>{{voter.alias}}</strong>.<br>
-Quando você for solicitado a informar seu login para votar, informe seu *ID de eleitor* ao invés de seu pseudônimo.
-</p>
-{% endif %}
+<p>A urna de votação eletrônica do seu segmento está disponível no seguinte endereço: <a href="{{election_vote_url}}"> {{ election_vote_url }} </a></p>
 <br>
 <p><b>IMPORTANTE: Em caso de atividade suspeita, tal como recebimento de e-mail de “voto depositado” sem que o(a) votante tenha depositado o voto, o(a) votante deverá imediatamente efetuar a troca de sua senha de acesso aos sistemas Minha UFOP, e resguardar-se depositando um novo voto.</b></p>
 <br>

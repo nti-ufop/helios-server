@@ -3,6 +3,7 @@
 
 {% block content %}
 <div class="row">
+ <div class="row text-center"><h4><b><span>Autenticação MinhaUfop</span></b></h4></div>
  <div class="col-md-6 col-sm-12">
 	<form class="form" role="form" action="" method="POST" id="login_form">
 	{{ form.non_field_errors }}
@@ -18,7 +19,7 @@
 		<input type="password" name="password" class="form-control" id="password" placeholder="{% trans "Password" %}"> {{ form.password.errors }}
 		</div>
 		<div class="form-group">
-			<button type="submit" class="btn btn-primary">{% trans "Login" %}</button>
+			<button type="submit" class="btn btn-success">{% trans "Login" %}</button>
 		</div>
 	</form>
 </div>

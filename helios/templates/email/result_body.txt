@@ -28,9 +28,9 @@ Se você acha que esse rastreador está errado, por favor, entre em contato.
 <br>
 </p>
 {% else %}
-<p>
+{% comment %} <p>
 Parece que você não votou nessa eleição. Se você acha que votou, por favor, entre em contato.
-</p>
+</p> {% endcomment %}
 {% endif %}
 <br>
 --

@@ -328,8 +328,8 @@ msgstr "CONFIRMAR"
 #: helios_auth/templates/password/login.html:4
 #: helios_auth/templates/password/login.html:23
 #: server_ui/templates/navbar.html:40
-msgid "Login"
-msgstr "Conectar"
+msgid "Autenticar"
+msgstr "Autenticar"
 
 #: helios/templates/basenonav.html:46 server_ui/templates/base.html:60
 #: server_ui/templates/basenonav.html:46
@@ -572,9 +572,7 @@ msgid ""
 "  "
 msgstr ""
 "\n"
-"  Para que sua cédula seja realmente depositada na urna, você deve se "
-"conectar com seu usuário e senha, para que possamos verificar se você é um "
-"eleitor válido nessa eleição.<br /><br />\n"
+"  Para que sua cédula seja realmente depositada na urna, clique no botão abaixo.<br /><br />\n"
 "  "
 
 #: helios/templates/election_cast_confirm.html:95
@@ -596,9 +594,7 @@ msgid ""
 "the same account you registered with.\n"
 msgstr ""
 "\n"
-"Essa eleição está aberta para <em>eleitores registrados</em>, portanto "
-"conecte-se\n"
-"com a mesma conta com a qual você se registrou.\n"
+"Essa eleição está aberta para <em>eleitores registrados</em>.\n"
 
 #: helios/templates/election_cast_confirm.html:111
 msgid ""
@@ -2312,7 +2308,7 @@ msgstr "Conecte-se com sua conta Google"
 
 #: helios_auth/auth_systems/ldapauth.py:42
 msgid "Log in with my LDAP Account"
-msgstr "Conecte-se com a sua conta MinhaUfop"
+msgstr "Clique aqui para autenticar-se com as credenciais do MinhaUfop"
 
 #: helios_auth/auth_systems/shibboleth.py:25
 msgid "Click here to login"
@@ -3307,6 +3303,10 @@ msgstr "Baixar a chave privada"
 
 msgid "ok, I've saved the key, let's move on"
 msgstr "ok, a chave foi salva, vamos prosseguir"
+
+msgid "Login"
+msgstr "Autenticar"
+
 
 #~ msgid ""
 #~ "\n"

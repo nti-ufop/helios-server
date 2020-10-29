@@ -9,7 +9,7 @@
 <br>
 <p>{{custom_message|safe|linebreaksbr}}</p>
 <br>
-<p>Para participar do processo de votação, você deverá utilizar o CPF e senha do Portal MinhaUfop. Além disso, caso ainda tenha alguma dúvida, você pode encontrar no site institucional da UFOP alguns vídeos contendo instruções de ajuda para participar do processo.</p>
+<p>Para participar do processo de votação, você deverá utilizar o CPF e senha do Portal MinhaUfop. Além disso, caso ainda tenha alguma dúvida, você pode encontrar no site institucional da UFOP alguns vídeos contendo instruções de ajuda para participar do processo. <b>Lembre-se, a sua senha é pessoal e intransferível.</b></p>
 <br>
 <p>A urna de votação eletrônica do seu segmento está disponível no seguinte endereço: <a href="{{election_vote_url}}"> {{ election_vote_url }} </a></p>
 <br>

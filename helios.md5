@@ -1,4 +1,4 @@
-bc314c4705fdaaa07cc8e42d1c9385f3  helios-server-master/helios.md5
+17ce2a6767de469d7697adef6dace9bb  helios-server-master/helios.md5
 701790c75b2f5bb88142081c45ad0944  helios-server-master/manage.py
 578afd89048ab570370888b68196ba2b  helios-server-master/server_ui/templates/faq.html
 8070d20cc19d1b58e2cf099e9fd0d6b5  helios-server-master/server_ui/templates/done.html
@@ -206,7 +206,7 @@ bd4db32e7a97b608dea286bb7ed865a0  helios-server-master/heliosbooth/vote.html
 42368b22925ecc7e5e6b4844a8d4f43b  helios-server-master/heliosbooth/templates/audit.html
 0200a2ddafe813b3e6bd2c80faafc0ca  helios-server-master/heliosbooth/templates/question.html
 9b59856462bee287d516b9f2c65286f8  helios-server-master/heliosbooth/templates/footer.html
-9bd7b62f0ea85198747ec23b289cedf1  helios-server-master/heliosbooth/templates/confirm.html
+c640758018d30da1dd2acda4e2c2cca0  helios-server-master/heliosbooth/templates/confirm.html
 8c32f3401cd793053aabce84a6bc8df8  helios-server-master/heliosbooth/templates/header.html
 98f08c0a610c9002e16e0380e546019f  helios-server-master/heliosbooth/templates/submit.html
 0666a626f0a7b828278f13c3a1dedb12  helios-server-master/heliosbooth/js/20180214-helios-booth-compressed.js
@@ -750,12 +750,12 @@ aa0433eb683478fb99d438875b6c41f4  helios-server-master/sitestatic/admin/css/widg
 80b2765846631cd22c8b8189c48f2ee9  helios-server-master/sitestatic/admin/css/ie.css
 1f592183babcd651d8785c399a6073f4  helios-server-master/sitestatic/admin/css/forms.css
 292e63365498ce33e69e033bb6d8a1c6  helios-server-master/.git/COMMIT_EDITMSG
-551771280bf8f3ab28e7cb42d0240542  helios-server-master/.git/ORIG_HEAD
+11dd8dce8ce02a1e9b8f23d5c09d3e00  helios-server-master/.git/ORIG_HEAD
 036208b4a1ab4a235d75c181e685e5a3  helios-server-master/.git/info/exclude
-92b91cb1b613e439f89c4f584a3a4913  helios-server-master/.git/index
-b5138624de23a28d7047dbc7c583950b  helios-server-master/.git/refs/heads/master
+a06cf28491e9b066633e39048843cf4b  helios-server-master/.git/index
+c194ad41d6eb305d64a4eead7467241e  helios-server-master/.git/refs/heads/master
 73a00957034783b7b5c8294c54cd3e12  helios-server-master/.git/refs/remotes/origin/HEAD
-551771280bf8f3ab28e7cb42d0240542  helios-server-master/.git/refs/remotes/origin/master
+11dd8dce8ce02a1e9b8f23d5c09d3e00  helios-server-master/.git/refs/remotes/origin/master
 a0a7c3fff21f2aea3cfa1d0316dd816c  helios-server-master/.git/description
 3c5989301dd4b949dfa1f43738a22819  helios-server-master/.git/hooks/pre-push.sample
 56e45f2bcbc8226d2b4200f7c46371bf  helios-server-master/.git/hooks/pre-rebase.sample
@@ -771,10 +771,10 @@ db4d62db2039e4bec38baa7567788284  helios-server-master/.git/hooks/fsmonitor-watc
 ce562e08d8098926a3862fc6e7905199  helios-server-master/.git/hooks/applypatch-msg.sample
 24561ade0686edbc0e7f986495a60a3e  helios-server-master/.git/config
 f97ad22724611a0122a4bcec9934925e  helios-server-master/.git/packed-refs
-ab6266f1d0ac79105db3197778af62ed  helios-server-master/.git/logs/refs/heads/master
+0a301e6c099c780a8a2b6be1e20cab27  helios-server-master/.git/logs/refs/heads/master
 6255a487b9fcd12f7b731aa8c0234d9f  helios-server-master/.git/logs/refs/remotes/origin/HEAD
-833a2e4c1f032a63eec94973a6269e3c  helios-server-master/.git/logs/refs/remotes/origin/master
-cd72a903b7d880a894df5317890c5e69  helios-server-master/.git/logs/HEAD
+92ef67ebdf4c52c8c1261a8f738a952f  helios-server-master/.git/logs/refs/remotes/origin/master
+a9ac70bb2bcb35ae86bcaadcb501f6c7  helios-server-master/.git/logs/HEAD
 4cf2d64e44205fe628ddd534e1151b58  helios-server-master/.git/HEAD
 9910bac73cf206cc26578fd20e781fff  helios-server-master/.git/objects/e2/bb3af932a090f8690abd94bf3624c49ee9c804
 292b41ff9b630c84cbef7e6500d1bed1  helios-server-master/.git/objects/e2/b60fea984c7412e59cb581249b407069273d70
@@ -834,6 +834,7 @@ c9bb5731fc1958fc08caf4640b44ca07  helios-server-master/.git/objects/79/ee73eee39
 464724d5c9fb8420eeecb0371d5ed8fc  helios-server-master/.git/objects/79/2c68d6f0fe318b89e57ce8f092a78ba8b70a72
 eb41c4dbadcedbd6f61d65db492ae7fa  helios-server-master/.git/objects/ca/cc5bcb3d027a69f75d25ac4fbeccd98cd35c54
 9a2ecdb27f2a7bfe5e5fec4437434e7c  helios-server-master/.git/objects/ca/9c9db54f3a43cf28a851a8797735bd7bae6bc9
+91ae33e752a47be5e0bd90fc9fbd6190  helios-server-master/.git/objects/52/b87de40e6bd06d76da5906d35be38a17e531f7
 90aea09d5f207f86ec4c8c3e11c31879  helios-server-master/.git/objects/67/b2540cc1bfd99b8599c02f08b693b26686f60c
 ff405c4f8b9c2da9a0e7dfadb4db31da  helios-server-master/.git/objects/67/7cd3939740ac1234bbc8b8def06e1b3192b5c7
 4259956a9aa50930a3c2bed9d4fe5599  helios-server-master/.git/objects/67/c7419401b5a5ac74b8d4c4b3cad21d2cbd3af9
@@ -880,6 +881,7 @@ c171660f2361000da1dcadebc5cd361f  helios-server-master/.git/objects/ff/697fe45cb
 99a8232137e398e8efd4375a1d7b06a1  helios-server-master/.git/objects/ff/3a753b447a7bd20793dd71ddf8abedb5251d1e
 bcb5fa6e66e6be9c1ec7c4a8e47d886a  helios-server-master/.git/objects/ff/89dd1047d79efabd081d03607b52059d5fd451
 58c7caa97af4447f2042835125ae0148  helios-server-master/.git/objects/60/e53539bcdb761058e7ae83118f2c6b6870480e
+15402bdbb34edd44650b67579d863a7d  helios-server-master/.git/objects/60/db65d3a1acf2a69b91a2a446dbbf9df537b053
 fc89acf7546b11fcc63c153d697a89c9  helios-server-master/.git/objects/60/12e586593638ab3fda2b384cae1714060cf004
 f7b7381cbc988ab5872989a1e601853e  helios-server-master/.git/objects/60/4082d9e2a96e0708f903d2a32e49683428d93f
 0362247efcd47505dd682eeb2f92fd3b  helios-server-master/.git/objects/5f/1909d06d5122f876f6553f086f4ebebf9d855b
@@ -902,6 +904,7 @@ a304835800222e9ce3072af2e549081a  helios-server-master/.git/objects/fc/6dcbff81b
 748deab8eeb3e2eb4f747fa996e60be6  helios-server-master/.git/objects/fc/3dae2d5b387beb9902899b4d4177792b199311
 235b7eea95ac8225dab9cf70f35e354b  helios-server-master/.git/objects/20/03049e3a17f8a301058dcd9f81df51e934502c
 8470b9daea26b593674d8cc0e5a51d7d  helios-server-master/.git/objects/20/5827636e691226f7af222ea6747f58a228ca98
+077a6eb4b46b7ea023a2ab892678109c  helios-server-master/.git/objects/20/0b2e742a4afad72e8856e385eb1f13964fc81e
 b820d1e360b44105c54914320471c889  helios-server-master/.git/objects/20/688b8d631a49eefadc227ad1635ec071b137a7
 f1dd5b5cfd015b7eb7f81323a9cb5e1d  helios-server-master/.git/objects/da/b69faa1be60b5babed291ebc9f196f1c726726
 9787ac083c5e879adec259f53d5b9ddb  helios-server-master/.git/objects/da/f5f2ce47dffed385c80652ccd66eacf43dbd5f
@@ -912,9 +915,11 @@ ad886580cafce6c4dab2557370e877a3  helios-server-master/.git/objects/38/316c914af
 cbe08efe30ff289386741bc977f50274  helios-server-master/.git/objects/06/9a769f7515d3ac0bd631a8aa351d24e13a2b65
 0b6087c17b44b9617c7a4726c6721e7d  helios-server-master/.git/objects/1c/6d21e2f08a1d517f78e1c3a8b9e0f9137d17cf
 29e100448425c0f68812214729f7710a  helios-server-master/.git/objects/1c/e1ed598774ac1c092f8eb6173741a508fb6d00
+9c6fa771d4ebfcff921f9fe09d261176  helios-server-master/.git/objects/1c/24e16bf3b95411152296369fe63078304b0920
 f894b71a5b4545e4d69901a65e2259c8  helios-server-master/.git/objects/49/5096a7507e3b42540188e550b096c4e6cb57e8
 c9241dc353e9579dacb60d50575c182e  helios-server-master/.git/objects/49/31cd62d9c4bd381f2064c446b2707d4f79e9d1
 559b9be1156f5ea85a30371b459d9871  helios-server-master/.git/objects/4a/75173f284dfdc6163cbfa931ed107bb69a5de4
+0aecd62baa351b1c482fa3978f2f8f8f  helios-server-master/.git/objects/4a/42b4bc0b24efa2dff213ac40eca401c787e7c7
 b1e3c856bea52d9248ad8b166c0132c2  helios-server-master/.git/objects/4a/599fbccd373cfc0fd0fcf67f11802a6381c728
 500fc84e7bef786030bec2b4c3cb4f40  helios-server-master/.git/objects/b5/ed3150f7a4124851b57d7705feef403f19dd8f
 25fa7f9b398e10940ed3a13909ae1f9e  helios-server-master/.git/objects/03/0d015e80676624fdbbfa9382da7f3a129fe53f
@@ -932,6 +937,7 @@ f16089c68265e34a7694a7619fd7ed67  helios-server-master/.git/objects/86/edc424025
 f55af0cb9006e8f8bafa979890d49496  helios-server-master/.git/objects/6b/e426993c8520b46852aea2aba823134885a850
 e3c78e1869755f2a337ce9f15dba8cf7  helios-server-master/.git/objects/6b/93384ef2ecc4117c08399943419e6e89c7fbf0
 d1a49f3f6d69508aa50132b7a17a9ebd  helios-server-master/.git/objects/6b/fa1b9c7e12a27219bd0c8460aece3e9d20cee1
+9b249b212c3aa200bef135d158350763  helios-server-master/.git/objects/33/ef7204546be68ec2b8d81e8ad30e2bc0cd91d3
 591edb5dad9bc0ca4c1d3fddb5c0bade  helios-server-master/.git/objects/33/2fd7cee134985fd26cbe3fc5c1fc711c7c985a
 fcfcf9448a2ad84edb50bf0742a7762b  helios-server-master/.git/objects/33/572246eaa39d3c31faa42c2dff4ea405486d06
 5f6df73ac9886db61a72a5377bbf9a62  helios-server-master/.git/objects/05/7c95cb062baac980e403bb6520384a4183a9e9
@@ -947,6 +953,7 @@ adb68dacb65a4c86d67733b16508f1d7  helios-server-master/.git/objects/54/1c3850a70
 24398048847f8b2fbe8bbd3d9327970e  helios-server-master/.git/objects/81/caf8452865d546ecf11a0de70037a1b9ac1770
 47da865afff95ee042191c783c9a13bf  helios-server-master/.git/objects/a5/4b1202502a2df24322150d8a556c29452a388e
 82a03e68b5478ef1baaf5ac18fbc7572  helios-server-master/.git/objects/a5/a08a076919492c772ce0c98645689bf05e7eec
+b8711b8a565ed0d976aae1caae6abe57  helios-server-master/.git/objects/a5/6d5e9dee922c52a26e169056430071478e7690
 b4f66b799ed353a5782a66acbae5e1ec  helios-server-master/.git/objects/47/174ce4367e041046d6a3ef901be8b397059626
 c2e3c357c5e12d453cc462b6891a1b49  helios-server-master/.git/objects/47/de64e0b8c352bff12be348453fae87fa7f681d
 4a33b25cabecc9cc5796f2acc35cfa81  helios-server-master/.git/objects/25/88f290e8c36b5983469c052ec9312404348f90
@@ -984,6 +991,7 @@ cd2bf2f9f75c5814330966c1fdb92179  helios-server-master/.git/objects/73/e87645f0b
 c9dc027bbfe68f4d9606c2f24fc717f2  helios-server-master/.git/objects/73/a17c1c3bd113a0247e816ffcf9ff5c2675b3d7
 bc76af842846b84a78e9e177a98efbab  helios-server-master/.git/objects/73/e04eb653e3e765f0c1e578e628601935a2de3f
 837db276b8e1a4cd60dcce9abe94d227  helios-server-master/.git/objects/73/50dd0306bb58a50c8367b35015b95a496eaf01
+e1868abcc127cb710568e90b26c18b0f  helios-server-master/.git/objects/0b/a0abdd66aebe550837cc5ff6ae1e24c5cb0cd2
 0bf8a373d0b6d22a5c3527226fd07d77  helios-server-master/.git/objects/c3/4f88468f2b9bbc4a61d1318908ead3d25030a0
 953cf56d380946880d270ad09683a138  helios-server-master/.git/objects/1e/290ba17766220a7f92befbb75cc5d8960c2dc9
 a43589d58d5f9196c9252f4bd88593d2  helios-server-master/.git/objects/ed/9d956511622b3e36f00ec59d67462d57805f96
@@ -1034,6 +1042,7 @@ df2e2e1e42165d01ddf2460af891ec78  helios-server-master/.git/objects/01/4d6ba47a6
 70e57c8e1f3fefd53607327395a656cf  helios-server-master/.git/objects/3a/e932eec160f7971e5fde5b0c35682356748251
 07a34edff7450c650bd06c24e6afdaf7  helios-server-master/.git/objects/3a/928d87c40776dc9a266ad714276280acbbeccd
 fa7ba48ecb52e02aa9eaca7b74f346d8  helios-server-master/.git/objects/9b/f3fc0cb9dda167d385584b18e550addd112958
+c96136dacf493099c3d13cac16e5fbf3  helios-server-master/.git/objects/ae/635d69f82119dd0249abf6dd03494c06468571
 ae84ab07ebfa8d1e00ad4f4d52feff50  helios-server-master/.git/objects/ae/5c108ace64bd7f54773b78110e05f3c2b5dfb9
 9ca7ca607b54d5d2a0a83463a006a82e  helios-server-master/.git/objects/ae/79b71b8e5069d79390e7348285c7eac16aecbc
 f3ff58d0c5ad2ec43ddfad388be9f40f  helios-server-master/.git/objects/ae/3b1d9fd4cd2428944e3d8088efb131150e5945
@@ -1065,6 +1074,7 @@ ba3162e148817295f32f4acc4eb899b7  helios-server-master/.git/objects/a2/ab2ead7f2
 035254a4c89178329d041c64962d60ba  helios-server-master/.git/objects/f8/ad20d53f14e41b9bc5e7c97a1f81de89b8eeba
 42b28fe40a2147d667e137141e9a3120  helios-server-master/.git/objects/f8/ca4a9427299cdda779bd9e27fd9800dc8381f3
 0e2653232cccfb645adceeb6a775c502  helios-server-master/.git/objects/30/89c7cf1d097b380d0d175b87191be471f57651
+c836f3502aa57cc099de4fd65047645a  helios-server-master/.git/objects/30/0de286cf5d11a8074eb2d116a7e034fdd4ac08
 9b984fa29ff6676fadd7d4c2186006a3  helios-server-master/.git/objects/f0/63a882a0e70ad05ccf9bb416c668d2cb394521
 428ea2fc80b7ee0addeb87ba9a7eef7c  helios-server-master/.git/objects/bc/cae89fc275ddf564def271adbd65beb18e8da5
 bcef5f028c5bc04f079dccbb4b422db1  helios-server-master/.git/objects/ec/e5b164ae6b2b0d04f4aea9a688b6152bf63948
@@ -1211,6 +1221,7 @@ df8695814ee7ac3f599042c213485fb5  helios-server-master/.git/objects/32/cad1a6723
 40399166a794b7c9ab5392351baaacd9  helios-server-master/.git/objects/7d/0ee00769e043388cea7f0e8ced6ed17f906df3
 bda1faae9bb8131ceebc8e8b10915a1a  helios-server-master/.git/objects/7d/5426da60a1e7bd1ff1428bd5fe451f3552e891
 848ca95ead945bb10d93ec4ad7fb2ca0  helios-server-master/.git/objects/7d/dbec34aadc794af286ff3505c9764ffe07c4d1
+bfc59feb277f66d11bb62adff9dcaef2  helios-server-master/.git/objects/7d/acc2e36600b34e750bfb34cb10ff24a6802fc1
 ac55ba72a18477e1fc2559c122eb077f  helios-server-master/.git/objects/13/487a78244fc68ea08182a34dfbc0757f126c0f
 27e1f775d9cd7ce9941d1d09db90c927  helios-server-master/.git/objects/13/7ffbd050d20218dd05d5bb107a4aad864d0c74
 cf9b8f09052b66fa46101e91a3944673  helios-server-master/.git/objects/13/ad6251e480f3a6956f3a49044373c065910606
@@ -1251,11 +1262,13 @@ aa380c4fc9dad2b156297d3ebc17b079  helios-server-master/.git/objects/6c/f7114e8e7
 c3dd9b3acd0f6a055416b233f9ed5ecc  helios-server-master/.git/objects/9d/67888a7828a08d701bbbb44516354e3d2d1cd2
 6b8e731e75dee60b2d2bc5df4619be72  helios-server-master/.git/objects/9d/b151670e5b3764cbfbdde60f51c24f534916b1
 3424d785b42dd55860d01cf80efdff4f  helios-server-master/.git/objects/99/66e0c65419a8cab02f8f1541ab5dd0506487a9
+43ecf7594582e53fc4ff0545f1956bb8  helios-server-master/.git/objects/99/d83310cadcb0d7532d8dc9696e36bbf9976424
 caaa1186742775933eb83c2fe0ddbba1  helios-server-master/.git/objects/99/2718ae6379017e769906d1b1e0a295b0937570
 05576d21801c2a02b4617f8240b4fabc  helios-server-master/.git/objects/99/f7ebb466177b3c3d628b2244a0f2c5581831b1
 a176c893c24145e3c454e4ec8c310cc2  helios-server-master/.git/objects/74/f92351b931d56373628d5640962baaaed34d8c
 693dd4e40170bfb5f06dd4ab56f37ea6  helios-server-master/.git/objects/74/9484d5f0440765e9053f7bc697a456b06fc0f3
 b055831c42d6ff0fda53130ca3e3f505  helios-server-master/.git/objects/74/98d73589236abc7d07ce34afdc8f6bf953ae90
+f84e429040714c944a6c1792b0414859  helios-server-master/.git/objects/17/2ccebfa96d85b8d76b3a707cf66a9df5cbc44b
 760e615fa1be8dd25c25f046165b6c1a  helios-server-master/.git/objects/a9/24acfb21d8f1007e8c5e709f587f0969a41f21
 43a88c21a7bb4d2873256ce83ee15324  helios-server-master/.git/objects/a9/090de725c1d29cf9dce8d4de53b0b4a8eecaa2
 80f67f1436b979595f620ef45a9037bc  helios-server-master/.git/objects/a9/030086d5523e258048949e1b25f09415234bfc
@@ -1338,11 +1351,13 @@ c88ac71132f3bb2483bf664b324ddce9  helios-server-master/.git/objects/a7/5f5f764a9
 0478f057501fe97121ae37376da766a4  helios-server-master/.git/objects/de/4b7a64bbfcc8cae6f88d53db7a1760f82d8e4b
 b876fbd71cd5a4d199ab08c14972aa12  helios-server-master/.git/objects/de/91e1c8e980fa9dcc9b53d6526f752a3e40174d
 730350aa2bc2b95a63ac7f783a8055db  helios-server-master/.git/objects/b2/42f83a710bf15d9a1b3cba9a9d5e3d8e1d1e12
+4b356f68385d4b885dae863cd8896cb5  helios-server-master/.git/objects/8a/d604c493120fbe0e9c051fdd772967ff0931e4
 db957948484dd53b9af7c23ea35bdca7  helios-server-master/.git/objects/61/148d6c2d7f96c421a98fc6e974010d3be17c14
 2857c07be6aa93b4e7450a460e00cbd2  helios-server-master/.git/objects/44/eff9adb41327ee1370e3dd209aef44b60d53b6
 0e82a3c22e039f95ba675f37a3d031d2  helios-server-master/.git/objects/44/660d938928072e41d8d0ba5dc1e6807e355cdb
 61dcbc13e8c00c6038cbd3356d9064ad  helios-server-master/.git/objects/44/ee4dddb9f0c67a12cf264417f64e05a6ec7da2
 d23dcb4eacab3e2287ef9586349f104b  helios-server-master/.git/objects/44/620f25336cf6843992a7a227cc2f07cbfc5b41
+cac049abede22047bb3014a3847bf285  helios-server-master/.git/objects/d1/25637e297114be8e027332354bbeacb8208e80
 c83043acf10a2a4aff4b9e269e75d0f0  helios-server-master/.git/objects/d1/354a281642b7b15930713e95c3259f56997ca6
 f5f11d2c11cdec7c2da4eabcefcace85  helios-server-master/.git/objects/0f/59727198bd8492f93270d1dcb947b962112533
 ccafe0937f28f6c00b2b0d2345053e2f  helios-server-master/.git/objects/b6/cbbc26c84ba17593dd382cb09b1e6fab014eda
